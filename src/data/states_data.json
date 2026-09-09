@@ -1,0 +1,997 @@
+[
+  {
+    "id": "puducherry",
+    "name": "Puducherry",
+    "name_hi": "Puducherry",
+    "total_schemes": 713,
+    "central_schemes": 527,
+    "state_schemes": 186,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 136
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 128
+      },
+      {
+        "sector": "Retail",
+        "count": 118
+      },
+      {
+        "sector": "Handicraft",
+        "count": 21
+      }
+    ],
+    "key_departments": [
+      "Puducherry"
+    ]
+  },
+  {
+    "id": "gujarat",
+    "name": "Gujarat",
+    "name_hi": "Gujarat",
+    "total_schemes": 645,
+    "central_schemes": 527,
+    "state_schemes": 118,
+    "top_sectors": [
+      {
+        "sector": "Manufacturing",
+        "count": 77
+      },
+      {
+        "sector": "Services",
+        "count": 75
+      },
+      {
+        "sector": "Retail",
+        "count": 73
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 36
+      }
+    ],
+    "key_departments": [
+      "Gujarat"
+    ]
+  },
+  {
+    "id": "goa",
+    "name": "Goa",
+    "name_hi": "Goa",
+    "total_schemes": 643,
+    "central_schemes": 527,
+    "state_schemes": 116,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 63
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 56
+      },
+      {
+        "sector": "Retail",
+        "count": 53
+      },
+      {
+        "sector": "Technology",
+        "count": 31
+      }
+    ],
+    "key_departments": [
+      "Goa"
+    ]
+  },
+  {
+    "id": "tamil-nadu",
+    "name": "Tamil Nadu",
+    "name_hi": "Tamil Nadu",
+    "total_schemes": 635,
+    "central_schemes": 527,
+    "state_schemes": 108,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 90
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 88
+      },
+      {
+        "sector": "Retail",
+        "count": 80
+      },
+      {
+        "sector": "Handicraft",
+        "count": 12
+      }
+    ],
+    "key_departments": [
+      "Tamil Nadu"
+    ]
+  },
+  {
+    "id": "rajasthan",
+    "name": "Rajasthan",
+    "name_hi": "Rajasthan",
+    "total_schemes": 610,
+    "central_schemes": 527,
+    "state_schemes": 83,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 52
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 52
+      },
+      {
+        "sector": "Retail",
+        "count": 48
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 25
+      }
+    ],
+    "key_departments": [
+      "Rajasthan"
+    ]
+  },
+  {
+    "id": "kerala",
+    "name": "Kerala",
+    "name_hi": "Kerala",
+    "total_schemes": 599,
+    "central_schemes": 527,
+    "state_schemes": 72,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 53
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 53
+      },
+      {
+        "sector": "Retail",
+        "count": 49
+      },
+      {
+        "sector": "Technology",
+        "count": 14
+      }
+    ],
+    "key_departments": [
+      "Kerala"
+    ]
+  },
+  {
+    "id": "chhattisgarh",
+    "name": "Chhattisgarh",
+    "name_hi": "Chhattisgarh",
+    "total_schemes": 591,
+    "central_schemes": 527,
+    "state_schemes": 64,
+    "top_sectors": [
+      {
+        "sector": "Manufacturing",
+        "count": 62
+      },
+      {
+        "sector": "Services",
+        "count": 59
+      },
+      {
+        "sector": "Retail",
+        "count": 58
+      },
+      {
+        "sector": "Food Processing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Chhattisgarh"
+    ]
+  },
+  {
+    "id": "meghalaya",
+    "name": "Meghalaya",
+    "name_hi": "Meghalaya",
+    "total_schemes": 590,
+    "central_schemes": 527,
+    "state_schemes": 63,
+    "top_sectors": [
+      {
+        "sector": "Agriculture & Allied",
+        "count": 37
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 37
+      },
+      {
+        "sector": "Services",
+        "count": 28
+      },
+      {
+        "sector": "Retail",
+        "count": 25
+      }
+    ],
+    "key_departments": [
+      "Meghalaya"
+    ]
+  },
+  {
+    "id": "madhya-pradesh",
+    "name": "Madhya Pradesh",
+    "name_hi": "Madhya Pradesh",
+    "total_schemes": 589,
+    "central_schemes": 527,
+    "state_schemes": 62,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 56
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 53
+      },
+      {
+        "sector": "Retail",
+        "count": 51
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 6
+      }
+    ],
+    "key_departments": [
+      "Madhya Pradesh"
+    ]
+  },
+  {
+    "id": "odisha",
+    "name": "Odisha",
+    "name_hi": "Odisha",
+    "total_schemes": 582,
+    "central_schemes": 527,
+    "state_schemes": 55,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 37
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 35
+      },
+      {
+        "sector": "Retail",
+        "count": 28
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 11
+      }
+    ],
+    "key_departments": [
+      "Odisha"
+    ]
+  },
+  {
+    "id": "himachal-pradesh",
+    "name": "Himachal Pradesh",
+    "name_hi": "Himachal Pradesh",
+    "total_schemes": 578,
+    "central_schemes": 527,
+    "state_schemes": 51,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 39
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 37
+      },
+      {
+        "sector": "Retail",
+        "count": 33
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 5
+      }
+    ],
+    "key_departments": [
+      "Himachal Pradesh"
+    ]
+  },
+  {
+    "id": "assam",
+    "name": "Assam",
+    "name_hi": "Assam",
+    "total_schemes": 576,
+    "central_schemes": 527,
+    "state_schemes": 49,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 42
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 42
+      },
+      {
+        "sector": "Retail",
+        "count": 39
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 6
+      }
+    ],
+    "key_departments": [
+      "Assam"
+    ]
+  },
+  {
+    "id": "maharashtra",
+    "name": "Maharashtra",
+    "name_hi": "Maharashtra",
+    "total_schemes": 575,
+    "central_schemes": 527,
+    "state_schemes": 48,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 42
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 39
+      },
+      {
+        "sector": "Retail",
+        "count": 37
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 5
+      }
+    ],
+    "key_departments": [
+      "Maharashtra"
+    ]
+  },
+  {
+    "id": "uttar-pradesh",
+    "name": "Uttar Pradesh",
+    "name_hi": "Uttar Pradesh",
+    "total_schemes": 569,
+    "central_schemes": 527,
+    "state_schemes": 42,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 38
+      },
+      {
+        "sector": "Retail",
+        "count": 35
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 33
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Uttar Pradesh"
+    ]
+  },
+  {
+    "id": "haryana",
+    "name": "Haryana",
+    "name_hi": "Haryana",
+    "total_schemes": 566,
+    "central_schemes": 527,
+    "state_schemes": 39,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 37
+      },
+      {
+        "sector": "Retail",
+        "count": 32
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 32
+      },
+      {
+        "sector": "Food Processing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Haryana"
+    ]
+  },
+  {
+    "id": "arunachal-pradesh",
+    "name": "Arunachal Pradesh",
+    "name_hi": "Arunachal Pradesh",
+    "total_schemes": 562,
+    "central_schemes": 527,
+    "state_schemes": 35,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 25
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 24
+      },
+      {
+        "sector": "Retail",
+        "count": 21
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 7
+      }
+    ],
+    "key_departments": [
+      "Arunachal Pradesh"
+    ]
+  },
+  {
+    "id": "delhi",
+    "name": "Delhi",
+    "name_hi": "Delhi",
+    "total_schemes": 561,
+    "central_schemes": 527,
+    "state_schemes": 34,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 33
+      },
+      {
+        "sector": "Retail",
+        "count": 31
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 31
+      },
+      {
+        "sector": "Food Processing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Delhi"
+    ]
+  },
+  {
+    "id": "tripura",
+    "name": "Tripura",
+    "name_hi": "Tripura",
+    "total_schemes": 556,
+    "central_schemes": 527,
+    "state_schemes": 29,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 28
+      },
+      {
+        "sector": "Retail",
+        "count": 25
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 25
+      },
+      {
+        "sector": "Technology",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Tripura"
+    ]
+  },
+  {
+    "id": "uttarakhand",
+    "name": "Uttarakhand",
+    "name_hi": "Uttarakhand",
+    "total_schemes": 556,
+    "central_schemes": 527,
+    "state_schemes": 29,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 23
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 23
+      },
+      {
+        "sector": "Retail",
+        "count": 22
+      },
+      {
+        "sector": "Food Processing",
+        "count": 4
+      }
+    ],
+    "key_departments": [
+      "Uttarakhand"
+    ]
+  },
+  {
+    "id": "west-bengal",
+    "name": "West Bengal",
+    "name_hi": "West Bengal",
+    "total_schemes": 554,
+    "central_schemes": 527,
+    "state_schemes": 27,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 24
+      },
+      {
+        "sector": "Retail",
+        "count": 22
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 21
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "West Bengal"
+    ]
+  },
+  {
+    "id": "jammu-and-kashmir",
+    "name": "Jammu and Kashmir",
+    "name_hi": "Jammu and Kashmir",
+    "total_schemes": 553,
+    "central_schemes": 527,
+    "state_schemes": 26,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 21
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 20
+      },
+      {
+        "sector": "Retail",
+        "count": 19
+      },
+      {
+        "sector": "Textile",
+        "count": 5
+      }
+    ],
+    "key_departments": [
+      "Jammu and Kashmir"
+    ]
+  },
+  {
+    "id": "karnataka",
+    "name": "Karnataka",
+    "name_hi": "Karnataka",
+    "total_schemes": 549,
+    "central_schemes": 527,
+    "state_schemes": 22,
+    "top_sectors": [
+      {
+        "sector": "Manufacturing",
+        "count": 17
+      },
+      {
+        "sector": "Services",
+        "count": 16
+      },
+      {
+        "sector": "Retail",
+        "count": 14
+      },
+      {
+        "sector": "Handicraft",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Karnataka"
+    ]
+  },
+  {
+    "id": "andhra-pradesh",
+    "name": "Andhra Pradesh",
+    "name_hi": "Andhra Pradesh",
+    "total_schemes": 547,
+    "central_schemes": 527,
+    "state_schemes": 20,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 12
+      },
+      {
+        "sector": "Retail",
+        "count": 10
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 10
+      },
+      {
+        "sector": "Textile",
+        "count": 5
+      }
+    ],
+    "key_departments": [
+      "Andhra Pradesh"
+    ]
+  },
+  {
+    "id": "chandigarh",
+    "name": "Chandigarh",
+    "name_hi": "Chandigarh",
+    "total_schemes": 547,
+    "central_schemes": 527,
+    "state_schemes": 20,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 18
+      },
+      {
+        "sector": "Retail",
+        "count": 17
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 17
+      },
+      {
+        "sector": "Food Processing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Chandigarh"
+    ]
+  },
+  {
+    "id": "jharkhand",
+    "name": "Jharkhand",
+    "name_hi": "Jharkhand",
+    "total_schemes": 547,
+    "central_schemes": 527,
+    "state_schemes": 20,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 20
+      },
+      {
+        "sector": "Retail",
+        "count": 20
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 20
+      }
+    ],
+    "key_departments": [
+      "Jharkhand"
+    ]
+  },
+  {
+    "id": "andaman-and-nicobar-islands",
+    "name": "Andaman and Nicobar Islands",
+    "name_hi": "Andaman and Nicobar Islands",
+    "total_schemes": 545,
+    "central_schemes": 527,
+    "state_schemes": 18,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 17
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 17
+      },
+      {
+        "sector": "Retail",
+        "count": 16
+      }
+    ],
+    "key_departments": [
+      "Andaman and Nicobar Islands"
+    ]
+  },
+  {
+    "id": "manipur",
+    "name": "Manipur",
+    "name_hi": "Manipur",
+    "total_schemes": 545,
+    "central_schemes": 527,
+    "state_schemes": 18,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 15
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 15
+      },
+      {
+        "sector": "Retail",
+        "count": 14
+      },
+      {
+        "sector": "Technology",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Manipur"
+    ]
+  },
+  {
+    "id": "punjab",
+    "name": "Punjab",
+    "name_hi": "Punjab",
+    "total_schemes": 545,
+    "central_schemes": 527,
+    "state_schemes": 18,
+    "top_sectors": [
+      {
+        "sector": "Manufacturing",
+        "count": 18
+      },
+      {
+        "sector": "Services",
+        "count": 17
+      },
+      {
+        "sector": "Retail",
+        "count": 17
+      }
+    ],
+    "key_departments": [
+      "Punjab"
+    ]
+  },
+  {
+    "id": "nagaland",
+    "name": "Nagaland",
+    "name_hi": "Nagaland",
+    "total_schemes": 544,
+    "central_schemes": 527,
+    "state_schemes": 17,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 13
+      },
+      {
+        "sector": "Retail",
+        "count": 10
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 10
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 5
+      }
+    ],
+    "key_departments": [
+      "Nagaland"
+    ]
+  },
+  {
+    "id": "telangana",
+    "name": "Telangana",
+    "name_hi": "Telangana",
+    "total_schemes": 542,
+    "central_schemes": 527,
+    "state_schemes": 15,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 12
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 12
+      },
+      {
+        "sector": "Retail",
+        "count": 11
+      },
+      {
+        "sector": "Food Processing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Telangana"
+    ]
+  },
+  {
+    "id": "bihar",
+    "name": "Bihar",
+    "name_hi": "Bihar",
+    "total_schemes": 539,
+    "central_schemes": 527,
+    "state_schemes": 12,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 10
+      },
+      {
+        "sector": "Retail",
+        "count": 10
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 10
+      },
+      {
+        "sector": "Technology",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Bihar"
+    ]
+  },
+  {
+    "id": "mizoram",
+    "name": "Mizoram",
+    "name_hi": "Mizoram",
+    "total_schemes": 538,
+    "central_schemes": 527,
+    "state_schemes": 11,
+    "top_sectors": [
+      {
+        "sector": "Manufacturing",
+        "count": 10
+      },
+      {
+        "sector": "Services",
+        "count": 8
+      },
+      {
+        "sector": "Retail",
+        "count": 8
+      },
+      {
+        "sector": "Technology",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Mizoram"
+    ]
+  },
+  {
+    "id": "sikkim",
+    "name": "Sikkim",
+    "name_hi": "Sikkim",
+    "total_schemes": 536,
+    "central_schemes": 527,
+    "state_schemes": 9,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 9
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 8
+      },
+      {
+        "sector": "Retail",
+        "count": 7
+      },
+      {
+        "sector": "Agriculture & Allied",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Sikkim"
+    ]
+  },
+  {
+    "id": "lakshadweep",
+    "name": "Lakshadweep",
+    "name_hi": "Lakshadweep",
+    "total_schemes": 529,
+    "central_schemes": 527,
+    "state_schemes": 2,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 2
+      },
+      {
+        "sector": "Retail",
+        "count": 2
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 2
+      }
+    ],
+    "key_departments": [
+      "Lakshadweep"
+    ]
+  },
+  {
+    "id": "dadra-and-nagar-haveli-and-daman-and-diu",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "name_hi": "Dadra and Nagar Haveli and Daman and Diu",
+    "total_schemes": 528,
+    "central_schemes": 527,
+    "state_schemes": 1,
+    "top_sectors": [
+      {
+        "sector": "Services",
+        "count": 1
+      },
+      {
+        "sector": "Retail",
+        "count": 1
+      },
+      {
+        "sector": "Manufacturing",
+        "count": 1
+      }
+    ],
+    "key_departments": [
+      "Dadra and Nagar Haveli and Daman and Diu"
+    ]
+  }
+]

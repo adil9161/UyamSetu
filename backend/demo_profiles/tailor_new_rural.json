@@ -1,0 +1,21 @@
+{
+  "id": "demo_tailor_new_rural",
+  "name": "Savitri Devi — Rural Artisan & Tailor",
+  "description": "28yo woman artisan starting a tailoring boutique in rural Varanasi, UP needing sewing machinery and seed loan.",
+  "profile": {
+    "location_state": "Uttar Pradesh",
+    "residence_type": "rural",
+    "district": "Varanasi",
+    "applicant_persona": "artisan",
+    "business_type": "Textile",
+    "funding_need": ["Starting a business", "Machinery & Equipment", "Loan"],
+    "business_stage": "new",
+    "age": 28,
+    "gender": "female",
+    "social_category": "OBC",
+    "is_traditional_artisan": true,
+    "has_udyam_registration": false
+  },
+  "expected_min_eligible": 1,
+  "expected_keywords": ["textile", "handloom", "weaver", "vishwakarma", "pmegp", "artisan"]
+}

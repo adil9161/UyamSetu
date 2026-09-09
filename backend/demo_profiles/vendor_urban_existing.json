@@ -1,0 +1,22 @@
+{
+  "id": "demo_vendor_urban_existing",
+  "name": "Ramesh Kumar — Urban Street Vendor",
+  "description": "35yo urban street vendor operating a fruit/snack cart in Delhi seeking working capital loan.",
+  "profile": {
+    "location_state": "Delhi",
+    "residence_type": "urban",
+    "district": "Central Delhi",
+    "applicant_persona": "street_vendor",
+    "business_type": "Retail",
+    "funding_need": ["Working capital", "Loan"],
+    "business_stage": "existing",
+    "revenue_range": "up_to_1_lakh",
+    "age": 35,
+    "gender": "male",
+    "social_category": "SC",
+    "is_street_vendor": true,
+    "has_udyam_registration": false
+  },
+  "expected_min_eligible": 1,
+  "expected_keywords": ["svanidhi", "vendor", "micro", "livelihood", "mudra"]
+}

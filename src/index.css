@@ -1,0 +1,244 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', 'Inter', system-ui, -apple-system, sans-serif;
+    --font-serif: 'Source Serif 4', Georgia, serif;
+    --font-mono: 'IBM Plex Mono', monospace;
+
+    --color-bg: #FAFAF7;
+    --color-surface: #FFFFFF;
+    --color-ink: #0F172A;
+    --color-ink-muted: #475569;
+    --color-ink-subtle: #94A3B8;
+    --color-primary: #1E3A5F;
+    --color-primary-hover: #162D4A;
+    --color-accent: #F97316;
+    --color-accent-light: #FED7AA;
+    --color-eligible: #16A34A;
+    --color-near: #D97706;
+    --color-ineligible: #DC2626;
+    --color-border: #E2E8F0;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-bg);
+    color: var(--color-ink);
+    min-height: 100vh;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: var(--font-serif);
+    letter-spacing: -0.02em;
+  }
+}
+
+/* ==========================================================
+   TYPOGRAPHY HIERARCHY UTILITIES
+   ========================================================== */
+.type-display {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.12;
+}
+
+.type-heading {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+}
+
+.type-subheading {
+  font-family: var(--font-sans);
+  font-weight: 500;
+  line-height: 1.5;
+  color: var(--color-ink-muted);
+}
+
+.type-body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-ink-muted);
+}
+
+.type-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.type-caption {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  color: var(--color-ink-subtle);
+}
+
+.type-button {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* Tricolour Accent Lines */
+.tricolour-bar {
+  background: linear-gradient(90deg, #FF9933 0%, #FF9933 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #138808 66.66%, #138808 100%);
+  height: 3px;
+  width: 100%;
+}
+
+.tricolour-bar-lg {
+  background: linear-gradient(90deg, #FF9933 0%, #FF9933 33.33%, #FFFFFF 33.33%, #FFFFFF 66.66%, #138808 66.66%, #138808 100%);
+  height: 4px;
+  width: 100%;
+}
+
+/* ==========================================================
+   ASHOKA CHAKRA RESPECTFUL CONTINUOUS CLOCKWISE ROTATION
+   Duration: 16s linear infinite (Slow, Smooth, Ceremonial)
+   ========================================================== */
+@keyframes rotateClockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes ashokaRotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.ashoka-chakra-rotating {
+  animation: rotateClockwise 16s linear infinite;
+  transform-origin: center center;
+  will-change: transform;
+}
+
+.ashoka-chakra-static {
+  transform: rotate(0deg);
+}
+
+/* Indian National Flag 3:2 Ratio Realistic Waving Cloth Animation */
+.flag-container {
+  aspect-ratio: 3 / 2;
+  position: relative;
+  overflow: hidden;
+  border-radius: 4px;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+}
+
+.flag-cloth {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.flag-saffron {
+  background-color: #FF9933;
+  flex: 1;
+}
+
+.flag-white {
+  background-color: #FFFFFF;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.flag-green {
+  background-color: #138808;
+  flex: 1;
+}
+
+/* Wave overlay creating realistic cloth lighting */
+.flag-wave-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    115deg,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(0, 0, 0, 0.12) 20%,
+    rgba(255, 255, 255, 0.25) 40%,
+    rgba(0, 0, 0, 0.15) 60%,
+    rgba(255, 255, 255, 0.2) 80%,
+    rgba(0, 0, 0, 0.08) 100%
+  );
+  background-size: 200% 200%;
+  animation: flagWave 4s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+
+@keyframes flagWave {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.ashoka-chakra {
+  height: 80%;
+  aspect-ratio: 1 / 1;
+  color: #000080;
+}
+
+/* Reduced motion preference & Core Web Vitals hardware acceleration */
+.will-change-transform {
+  will-change: transform, opacity;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flag-wave-overlay {
+    animation: none !important;
+  }
+  .ashoka-chakra-rotating {
+    animation: none !important;
+    transform: rotate(0deg) !important;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Custom scrollbar for public service look */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}

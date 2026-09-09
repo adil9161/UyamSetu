@@ -1,0 +1,22 @@
+{
+  "id": "demo_retailer_existing",
+  "name": "K. Venkatesh — Operating Retail MSME",
+  "description": "42yo small business owner expanding an electronics shop in Tamil Nadu with ₹25 Lakh turnover.",
+  "profile": {
+    "location_state": "Tamil Nadu",
+    "residence_type": "urban",
+    "district": "Chennai",
+    "applicant_persona": "existing_entrepreneur",
+    "business_type": "Retail",
+    "funding_need": ["Working capital", "Loan"],
+    "business_stage": "existing",
+    "revenue_range": "10_to_50_lakh",
+    "age": 42,
+    "gender": "male",
+    "social_category": "OBC",
+    "has_udyam_registration": true,
+    "udyam_registration_number": "UDYAM-TN-00-5544332"
+  },
+  "expected_min_eligible": 1,
+  "expected_keywords": ["credit", "cgtmse", "mudra", "retail", "msme"]
+}

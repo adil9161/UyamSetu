@@ -1,0 +1,20 @@
+{
+  "id": "demo_tech_startup",
+  "name": "Arjun Rao — Tech & Innovation Founder",
+  "description": "26yo tech startup founder building an AI agri-tech platform in Bengaluru, Karnataka seeking seed capital.",
+  "profile": {
+    "location_state": "Karnataka",
+    "residence_type": "urban",
+    "district": "Bengaluru Urban",
+    "applicant_persona": "tech_founder",
+    "business_type": "Technology",
+    "funding_need": ["Starting a business", "Market access"],
+    "business_stage": "new",
+    "age": 26,
+    "gender": "male",
+    "social_category": "General",
+    "has_udyam_registration": false
+  },
+  "expected_min_eligible": 1,
+  "expected_keywords": ["tech", "startup", "innovation", "karnataka", "credit"]
+}

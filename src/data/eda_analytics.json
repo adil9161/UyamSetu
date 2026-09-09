@@ -1,0 +1,151 @@
+{
+  "title": "myScheme India: Exploratory Data Analysis & National Welfare Taxonomy",
+  "source": "https://www.kaggle.com/code/elchemist/myscheme-eda",
+  "total_analyzed": 2066,
+  "total_states": 35,
+  "central_schemes_count": 527,
+  "state_schemes_count": 1539,
+  "top_15_states": [
+    {
+      "rank": 1,
+      "state": "Puducherry",
+      "state_schemes": 186,
+      "total_accessible": 713
+    },
+    {
+      "rank": 1,
+      "state": "Gujarat",
+      "state_schemes": 118,
+      "total_accessible": 645
+    },
+    {
+      "rank": 1,
+      "state": "Goa",
+      "state_schemes": 116,
+      "total_accessible": 643
+    },
+    {
+      "rank": 1,
+      "state": "Tamil Nadu",
+      "state_schemes": 108,
+      "total_accessible": 635
+    },
+    {
+      "rank": 1,
+      "state": "Rajasthan",
+      "state_schemes": 83,
+      "total_accessible": 610
+    },
+    {
+      "rank": 1,
+      "state": "Kerala",
+      "state_schemes": 72,
+      "total_accessible": 599
+    },
+    {
+      "rank": 1,
+      "state": "Chhattisgarh",
+      "state_schemes": 64,
+      "total_accessible": 591
+    },
+    {
+      "rank": 1,
+      "state": "Meghalaya",
+      "state_schemes": 63,
+      "total_accessible": 590
+    },
+    {
+      "rank": 1,
+      "state": "Madhya Pradesh",
+      "state_schemes": 62,
+      "total_accessible": 589
+    },
+    {
+      "rank": 1,
+      "state": "Odisha",
+      "state_schemes": 55,
+      "total_accessible": 582
+    },
+    {
+      "rank": 1,
+      "state": "Himachal Pradesh",
+      "state_schemes": 51,
+      "total_accessible": 578
+    },
+    {
+      "rank": 1,
+      "state": "Assam",
+      "state_schemes": 49,
+      "total_accessible": 576
+    },
+    {
+      "rank": 1,
+      "state": "Maharashtra",
+      "state_schemes": 48,
+      "total_accessible": 575
+    },
+    {
+      "rank": 1,
+      "state": "Uttar Pradesh",
+      "state_schemes": 42,
+      "total_accessible": 569
+    },
+    {
+      "rank": 1,
+      "state": "Haryana",
+      "state_schemes": 39,
+      "total_accessible": 566
+    }
+  ],
+  "application_modes": [
+    {
+      "mode": "Online (National/State Portals)",
+      "count": 914,
+      "percentage": 68.3
+    },
+    {
+      "mode": "Offline (DIC / District Nodal Office)",
+      "count": 868,
+      "percentage": 24.3
+    },
+    {
+      "mode": "CSC / Kiosk / Assisted",
+      "count": 154,
+      "percentage": 7.4
+    }
+  ],
+  "top_beneficiary_categories": [
+    [
+      "MSME / Entrepreneur",
+      668
+    ],
+    [
+      "Youth",
+      667
+    ],
+    [
+      "Women",
+      616
+    ],
+    [
+      "Farmer",
+      377
+    ],
+    [
+      "SC",
+      277
+    ],
+    [
+      "Divyangjan (PwD)",
+      253
+    ],
+    [
+      "ST",
+      160
+    ],
+    [
+      "Artisan",
+      115
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "demo_woman_new_enterprise",
+  "name": "Pooja Patil — First-time Woman Food Entrepreneur",
+  "description": "32yo woman starting an organic bakery & food processing unit in rural Maharashtra seeking capital subsidy.",
+  "profile": {
+    "location_state": "Maharashtra",
+    "residence_type": "rural",
+    "district": "Pune",
+    "applicant_persona": "starting_business",
+    "business_type": "Food Processing",
+    "funding_need": ["Starting a business", "Subsidy", "Machinery & Equipment"],
+    "business_stage": "new",
+    "age": 32,
+    "gender": "female",
+    "social_category": "General",
+    "has_udyam_registration": false
+  },
+  "expected_min_eligible": 1,
+  "expected_keywords": ["food", "pmegp", "subsidy", "standup", "processing", "maharashtra"]
+}
