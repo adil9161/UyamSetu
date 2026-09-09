@@ -45,7 +45,11 @@ wheels/
 *.key
 *.cert
 
-# Database (keep demo seed DB if needed, ignore transient copies)
+# Database
+*.db
+*.sqlite
+*.sqlite3
+udyamsetu.db
 *.db-journal
 
 # Testing & Coverage

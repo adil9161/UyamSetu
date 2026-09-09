@@ -37,7 +37,7 @@
 
 ## 🎯 What is UdyamSetu?
 
-**UdyamSetu** is a national-scale civic technology platform designed to transform how Indian citizens, micro-entrepreneurs, artisans, farmers, and students discover and access central and state government welfare schemes.
+**UdyamSetu** is an AI-powered government scheme discovery platform that helps citizens find relevant schemes, understand eligibility, see why they match, identify missing requirements, explore required documents, and take the next step—all through personalized, evidence-driven recommendations.
 
 Instead of presenting an overwhelming directory of thousands of uncurated schemes, UdyamSetu evaluates citizen profile attributes against **statutory deterministic rules** to deliver:
 1. **Explainable Eligibility**: Transparent explanations of why a scheme matches or why it does not.
