@@ -23,15 +23,17 @@
 
 ---
 
-## 📸 Product Highlights & User Journey
+## 📸 Application Interface & Highlights
 
-| Full-Width Hero Carousel | Adaptive Multi-Step Onboarding |
+| **Hero Section & Opportunity Carousel** | **Citizen Quick Sign-In Modal** |
 | :---: | :---: |
-| Continuous edge-to-edge civic banner composition with right-to-left transition | 7-step progressive disclosure wizard tailoring questions by persona |
+| ![Hero Section & Opportunity Carousel](docs/screenshots/hero_carousel.png) | ![Citizen Quick Sign-In Modal](docs/screenshots/citizen_login_modal.jpg) |
+| *Edge-to-edge civic opportunity carousel, bilingual toggles (EN/हिंदी), and unified portal navigation.* | *Respectful 16s rotating Ashoka Chakra, lightweight phone/email intake, and DPDP 2025 compliance.* |
 
-| 3-Tier Explainable Matches | Ceremonial Clockwise Rotating Chakra |
+| **Explore Government Scheme Catalog** | **5-Step Intelligence Workflow** |
 | :---: | :---: |
-| "Why this scheme" signals + Gap Analysis + Next 3 Steps to Sanction | Respectful 16s linear clockwise rotation on Citizen Sign In |
+| ![Explore Government Scheme Catalog](docs/screenshots/scheme_categories.png) | ![How UdyamSetu Works Workflow](docs/screenshots/how_it_works_workflow.png) |
+| *Curated taxonomy across 2,066+ programs spanning Agriculture, MSME, Education, Startups & Banking.* | *Deterministic statutory rule evaluation, zero probabilistic hallucination, and actionable next steps.* |
 
 ---
 
